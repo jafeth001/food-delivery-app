@@ -18,4 +18,4 @@ root SSL certificate
 
 docker
 
-kubernates
+Kubernetes

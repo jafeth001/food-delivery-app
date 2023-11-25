@@ -8,8 +8,14 @@ java
 
 spring boot
 
+spring security
+
 hibernate
 
 java mail library
 
 root SSL certificate 
+
+docker
+
+kubernates
